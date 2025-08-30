@@ -4,7 +4,7 @@
 This repository contains my project report on **Modelling of Fatty Liver**, guided by **Dr. Ganesh Madabattula and Dr. Gowri Balachander, IIT (BHU), Varanasi** (Feb 2025–Present).
 
 ## Report
-- [📄 Download Report (PDF)](./reports/MSR_Report.pdf)
+- [📄 Download Report (PDF)](./reports/Disease_Modelling_Report.pdf)
 
 ## Overview
 - Studied a **reaction–diffusion model** of epithelial wound healing driven by **EGF**.  
